@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Bremen, Germany</h3>
 
-- 🌱 I’m currently learning **TypeScript, Angular, C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
